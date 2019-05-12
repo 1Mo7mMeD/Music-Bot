@@ -1,4 +1,4 @@
-# Music Bot - By Youssef
+# Music Bot - By 1Mo7mMeD
 
 This a music bot crafted in discord.js master, a discord api wrapper. So far, this plays music from youtube, and youtube only. 
 
